@@ -1,8 +1,4 @@
 ﻿/***********************************************************************************************
- * Übungsnr:        11                                     
- * Programmname:    Dubletten
- * Autor:           Michael Bucek                              
- * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Lese 10 Namen ein und speichere diese in ein String Array.
  * Nach der Eingabe sollen zunächst alle Namen ausgegeben werden.
